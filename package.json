@@ -9,7 +9,5 @@
     "express": "^4.13.3",
     "mysql": "^2.9.0"
   }
-  "scripts": {
-    "start": "node app.js"
-  }
+  "scripts": {"start": "node app.js"}
 }
